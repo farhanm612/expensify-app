@@ -1,8 +1,8 @@
 {
-  "name": "boilerplate",
+  "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/farhanm612/indecision-app.git",
+  "repository": "https://github.com/farhanm612/expensify-app.git",
   "author": "Farhan Mahmood <farhanm612@gmail.com>",
   "license": "MIT",
   "private": null,
@@ -26,6 +26,7 @@
     "react-dom": "16.0.0",
     "react-modal": "2.2.2",
     "react-router-dom": "4.2.2",
+    "redux": "^4.0.0",
     "sass-loader": "^7.1.0",
     "style-loader": "0.18.2",
     "validator": "8.0.0",
